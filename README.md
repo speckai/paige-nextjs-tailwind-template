@@ -14,9 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Project Structure
 
-- `src/app/page.tsx` - Main landing page component
-- `src/app/layout.tsx` - Root layout component
-- `src/app/globals.css` - Global styles
+- `app/page.tsx` - Main landing page component
+- `app/layout.tsx` - Root layout component
+- `app/globals.css` - Global styles
 
 ## Built With
 
