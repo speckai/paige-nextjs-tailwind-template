@@ -3,10 +3,10 @@ export default function Home() {
     <div className="min-h-screen">
       <main className="container mx-auto px-4 py-16">
         <h1 className="text-4xl font-bold text-center mb-8">
-          Welcome to Your Website
+          Paige Template
         </h1>
         <p className="text-center text-lg mb-8">
-          Get started by requesting a change.
+          If you're seeing this, Paige is currently setting up your project. The changes will be reflected here shortly.
         </p>
 
         <div className="flex justify-center gap-4">
@@ -14,13 +14,7 @@ export default function Home() {
             href="#"
             className="px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800"
           >
-            Get Started
-          </a>
-          <a
-            href="#"
-            className="px-6 py-3 border border-black rounded-lg hover:bg-gray-100"
-          >
-            Learn More
+            Celebrate
           </a>
         </div>
       </main>
