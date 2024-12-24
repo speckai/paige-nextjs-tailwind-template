@@ -1,6 +1,6 @@
-# Paige Template
+# Paige App
 
-A minimal landing page template built with Next.js and Tailwind CSS.
+A minimal landing page built with Next.js and Tailwind CSS.
 
 ## Getting Started
 
